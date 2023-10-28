@@ -1,0 +1,74 @@
+html{
+    scroll-behavior: smooth;
+}
+.img1{
+    height: 50vh;
+    width: 30vw;
+    margin-left: 130px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.button1:hover{
+    cursor: pointer;
+    color:black;
+    background-color: rgb(240, 171, 97);
+}
+.img2{
+    height: 50vh;
+    width: 40vw;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.para2{
+    padding-top: 50px;
+}
+.pi{
+    background-color: rgba(0, 0, 0, 0.782);
+    color: white;
+}
+.project{
+    background-color: rgba(0, 0, 0, 0.782);
+    color: white;
+    padding-left: 150px;
+}
+.head1{
+    background-color: rgba(0, 0, 0, 0.782);
+
+}
+.para2{
+}
+#career{
+    font-size: 20px;
+}
+#project{
+    background-color: black;
+    width: 100vw;
+}
+.hr_1{
+    border:1px solid red;
+}
+#contact_1{
+    width: 50vw;
+}
+#skill{
+    width: 120vw;
+}
+#Personal{
+    width: 100vw;
+    height: 45vh;
+    background-color: black;
+    font-size: 20px;}
+li{
+    list-style-type: none;
+}
+@media (max-width:800px) {
+    #text_area{
+        width: 50vw;
+    }
+}
+@media (max-width:800px) {
+    .mb-3{
+        width: 50vw;
+    }
+}
